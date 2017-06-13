@@ -29,7 +29,7 @@ SOFTWARE.
 
 using System;
 using System.Collections.Generic;
-using Json;
+using JsonYarn;
 
 
 namespace Yarn {

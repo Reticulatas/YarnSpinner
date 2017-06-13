@@ -14,7 +14,7 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 
-namespace Json
+namespace JsonYarn
 {
     /// <summary>
     /// Possible JSON tokens in parsed input.
